@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mansour Almarzooqi - Future Path</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #ccc;
+      font-family: monospace;
+      margin: 0;
+      padding: 2rem;
+      text-align: center;
+    }
+    h1, h2 {
+      color: #00ffff;
+    }
+    a {
+      color: #00ffff;
+      text-decoration: none;
+    }
+    .section {
+      margin-top: 2rem;
+      text-align: left;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    img.profile-pic {
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 2px solid #00ffff;
+      image-rendering: pixelated;
+      filter: contrast(120%) saturate(120%);
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <img src="profile.jpg" alt="Mansour Profile Picture" class="profile-pic">
+  <h1>➤ Mansour Almarzooqi</h1>
+  <p>artificial intelligence & computer science<br>
+     american community school of abu dhabi, class of 2027<br>
+     resume and certificates available upon request</p>
+
+  <div class="section">
+    <h2>High School Planning</h2>
+    <p><strong>Grade 11</strong><br>
+    Academics: AP Computer Science A, AP Physics 1, IB Arabic B HL, IB Economics SL, IB English SL, IB Math AI SL, Theory of Knowledge<br>
+    Extracurriculars: Golf, Equestrian, NHS, AI projects<br>
+    Leadership: Organize peer tutoring sessions, take initiative in school tech events<br>
+    Community Service: Volunteer tech workshops for younger students<br>
+    Test Prep: Prepare for SAT and APs, IELTS<br>
+    Personal Growth: Website building, NYUAD Summer Academy, plan future internships at Mohamed Bin Rashid Space Center, Abu Dhabi Aviation, and Burjeel Hospital</p>
+
+    <p><strong>Grade 12</strong><br>
+    Academics: Advanced Computer Science electives, complete IB coursework<br>
+    Extracurriculars: Continue sports and AI internships<br>
+    Leadership: Contribute to capstone AI projects and school initiatives<br>
+    Community Service: Expand workshop reach to public schools<br>
+    Test Milestones: Finish SAT and APs<br>
+    Personal Growth: Apply to NYU and Columbia, present final projects, continue internship experiences at Mohamed Bin Rashid Space Center, Abu Dhabi Aviation, and Burjeel Hospital</p>
+  </div>
+
+  <div class="section">
+    <h2>College Planning</h2>
+    <p><strong>Freshman Year</strong><br>
+    Study: Computer Science and AI basics<br>
+    Goals: Join AI/Robotics lab, explore student orgs<br>
+    Involvement: Freshman tech society, small hackathons<br>
+    Growth: Adjust to college life, explore NYC culture</p>
+
+    <p><strong>Sophomore Year</strong><br>
+    Study: Machine Learning, Data Structures<br>
+    Goals: Apply for summer internship, research<br>
+    Involvement: Participate in tech events, mentor freshmen<br>
+    Growth: Independent coding projects, build network</p>
+
+    <p><strong>Junior Year</strong><br>
+    Study: Advanced AI, Computer Vision<br>
+    Goals: Study abroad or research semester<br>
+    Involvement: Contribute to AI student group initiatives<br>
+    Growth: Prepare grad school options, GRE if needed</p>
+
+    <p><strong>Senior Year</strong><br>
+    Study: Capstone Project, Ethics in AI<br>
+    Goals: Finish strong with honors thesis<br>
+    Involvement: TA roles, final year academic contributions<br>
+    Growth: Finalize career or grad school path</p>
+  </div>
+
+  <div class="section">
+    <h2>5 Years After College</h2>
+    <p>
+    Career: Start as AI Research Engineer or Product Lead in healthcare tech<br>
+    Grad School: Optional Master’s in AI or MBA<br>
+    Location: Living in New York, Dubai, or Seoul<br>
+    Success: Building useful tools, staying grounded, helping others in tech<br>
+    Balance: Travel, fitness, time for family and giving back<br>
+    Values: Growth, creativity, curiosity, empathy, and ambition
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>contact</h2>
+    <p>Email: <a href="mailto:mansour.karji@gmail.com">mansour.karji@gmail.com</a><br>
+       LinkedIn: <a href="https://www.linkedin.com/in/mansour-almarzooqi-8aa80b369">linkedin.com/in/mansour-almarzooqi-8aa80b369</a>
+    </p>
+  </div>
+</body>
+</html>
